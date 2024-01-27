@@ -36,7 +36,7 @@ A variety of classification models are employed to categorize the lyrics:
 
 - **Transformers:** The language model (CAMeL-Lab/bert-base-arabic-camelbert-mix-did-madar-corpus26) is fine-tuned for lyrics classification, achieving an impressive accuracy of 91.41% after 50 epochs.
 - **SVM Accuracy:** The Support Vector Machine model demonstrates a solid accuracy of 86.43%.
-- **LSTM (10 epochs):** The Long Short-Term Memory model achieves an accuracy of 87.5% after 10 epochs.
+- **LSTM:** The Long Short-Term Memory model achieves an accuracy of 87.5% after 10 epochs.
 - **K-means Clustering:** Employed to group similar lyrics together, providing insights into thematic clusters.
 
 ## Dependencies
