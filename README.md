@@ -47,6 +47,7 @@ Ensure the following dependencies are installed before running the code:
 - **spacy:** Applied for advanced language processing.
 - **langdetect:** Enables language detection for accurate preprocessing.
 - **farasa:** Utilized for Arabic text segmentation.
+- **transformers:** Library for state-of-the-art natural language processing with deep learning.
 
 ## Usage
 
