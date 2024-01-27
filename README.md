@@ -1,4 +1,4 @@
-# Moroccan-Algerian-Tunisian Lyrics Analysis
+# Moroccan-Algerian-Tunisian Lyrics Classification
 
 ## Overview
 
